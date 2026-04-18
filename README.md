@@ -3,7 +3,7 @@ Desenvolvi um notebook na ferramenta NotebookLM, da Google, com foco em storytel
 
 O projeto foi estruturado para consolidar boas práticas de visualização de dados, com aprofundamento nos principais conceitos, incluindo exploração de recursos visuais, princípios de design e percepção, além de narrativa visual. Também contempla a aplicação de planejamento estratégico e o uso de ferramentas e tecnologias voltadas à análise e comunicação de dados.
 
-# Curadoria das Fontes:
+## Curadoria das Fontes:
 Livros em PDF: 
 1. Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios
 por Cole Nussbaumer Knaflic
