@@ -23,3 +23,34 @@ https://www.youtube.com/watch?v=IjXRsmXGc3Q
 Artigo:
 1. https://ric.cps.sp.gov.br/bitstream/123456789/34243/1/gestao_empresarial_2025_1_ivan_oliveira_data_storytelling.pdf
 
+## Visão Geral de Storytelling com Dados:
+O storytelling com dados é a prática de combinar análise de dados, visualização e narrativa para transformar informações complexas em mensagens claras, envolventes e acionáveis.
+
+Principais tópicos que compõem esse tema:
+1. A Transição Fundamental: Exploratório vs. Explanatório
+Análise Exploratória: É a fase de busca por insights, onde o analista "abre 100 ostras" para encontrar algumas pérolas
+Análise Explanatória: É o momento da comunicação, onde se deve focar apenas nas "pérolas" (os insights relevantes) para não sobrecarregar o público
+
+2. O Processo de Storytelling em 6 Lições (Metodologia Knaflic)
+- Entender o Contexto: Identificar quem é o público, o que ele precisa saber e como os dados apoiarão a ideia
+- Ferramentas como a Grande Ideia (uma frase concisa) e a História de 3 Minutos ajudam a focar no objetivo central
+- Escolher o Visual Adequado: Utilizar modelos que facilitem a leitura, como gráficos de linhas para tendências e barras para comparações, evitando gráficos de pizza e 3D
+- Eliminar a Saturação: Reduzir o ruído visual e elementos desnecessários (princípio do data-ink ratio) para diminuir a carga cognitiva do público
+- Focalizar a Atenção: Utilizar atributos pré-atentivos (cor, tamanho e posição) estrategicamente para guiar o olhar do espectador para o ponto principal
+- Pensar como Designer: Aplicar princípios de Gestalt (proximidade, similaridade, fechamento) e affordances para criar uma hierarquia visual clara e intuitiva
+- Contar uma História: Estruturar a apresentação com uma narrativa coesa, garantindo que as informações façam sentido juntas
+
+3. Estrutura Narrativa (Arco da História)
+- Início (A Trama): Estabelece o contexto, apresenta os personagens (clientes, processos ou dados) e o cenário atual
+- Meio (O Conflito): Introduz a tensão ou a "quebra de expectativa", como uma queda em vendas ou um problema operacional
+- Fim (A Solução/Ação): Conclui com uma chamada para ação (CTA) clara e recomendações baseadas nos dados
+
+4. Técnicas de Apoio e Ferramentas
+- Recurso 3Q + COP: Estrutura para garantir uma história completa respondendo: O quê, Quem, Quando, Como, Onde e Por quê
+- Revelação Lenta: Técnica de incluir elementos do gráfico ou da história aos poucos para manter o engajamento e garantir a compreensão
+- Ferramentas: Uso estratégico de softwares como Excel, PowerPoint, Tableau, Power BI, Looker Studio e linguagens como Python ou R
+
+6. Impacto Estratégico e Ética
+- Tomada de Decisão Inteligente: O storytelling reduz o tempo gasto discutindo a veracidade dos números e foca na análise estratégica e na ação
+- Ética e Integridade: Responsabilidade em apresentar dados de forma honesta, evitando manipulações como o "cherry picking" (escolha seletiva de dados favoráveis)
+- Cultura Orientada a Dados: Democratiza a informação, permitindo que públicos não técnicos compreendam e utilizem dados para decisões cotidianas
